@@ -6,4 +6,4 @@ Projemizde oyuncu, bir fiziksel palet kontrol cihazını kullanarak bir topu yan
 
 ![Ekran görüntüsü 2024-04-03 123153](https://github.com/caglagok/Tugla_Kirma_Oyunu-Ping_Pong/assets/114026286/cba5fdb6-4043-47ee-a660-d1ed08e9cded)
 
-Detaylı açıklamayı rapordabulabilirsiniz.
+Detaylı açıklamayı raporda bulabilirsiniz.
